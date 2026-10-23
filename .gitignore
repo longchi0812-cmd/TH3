@@ -1,0 +1,28 @@
+﻿# Virtual environments
+**/venv/
+**/.venv/
+**/env/
+venv/
+.venv/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Environment variables
+.env
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+*.log
+
+# Other folders
+baiGK/
+TaiLieu/
